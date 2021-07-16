@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SkydivingSquid
+- 🚢 I have been in the Navy about 10 years.
+- 🎓 I am a student Software Engineer at Auburn University
+- 🪂 I am a skydiver, 🏃‍♂️ runner, and 🚴‍♂️ cyclist.
+- 🌱 I’m currently learning JAVA, c++, and linux. 
+-  I code with a 2013 Macbook Pro. 
